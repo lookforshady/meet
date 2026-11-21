@@ -11,13 +11,12 @@
 
 Clone this repository using `git clone 'https://github.com/lookforshady/meet.git'`
 (or)
-Download this folder manually
+Download this folder manually (run `chmod +x install.sh` on Linux/MacOS)
 
 ## Linux/MacOS:
 
-> chmod +x install.sh [//]: # only for manual download
-> ./install.sh
+`./install.sh`
 
 ## Windows:
 
-> ./install.ps1
+`./install.ps1`
