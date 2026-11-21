@@ -9,10 +9,13 @@
 
 # INSTALLATION
 
-Clone this repository
+Clone this repository using `git clone 'https://github.com/lookforshady/meet.git'`
+(or)
+Download this folder manually
 
 ## Linux/MacOS:
 
+> chmod +x install.sh [//]: # only for manual download
 > ./install.sh
 
 ## Windows:
